@@ -1,0 +1,52 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.1",
+	"FriendlyName": "ReadSpeakerTTS",
+	"Description": "Runtime TTS in Unreal",
+	"Category": "Other",
+	"CreatedBy": "ReadSpeaker",
+	"CreatedByURL": "https://readspeaker.ai/",
+	"DocsURL": "",
+	"MarketplaceURL": "d57a42de2af540319f67dadf862e94fd",
+	"SupportURL": "https://www.readspeaker.ai/contact/",
+	"EngineVersion": "5.1.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "ReadSpeakerTTS",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault",
+			"PlatformAllowList": [
+				"Win64",
+				"Linux"
+			],
+			"TargetConfigurationAllowList": [
+				"Unknown",
+				"Debug",
+				"DebugGame",
+				"Development",
+				"Shipping",
+				"Test"
+			]
+		},
+		{
+			"Name": "TTSSettingsWindow",
+			"Type": "Editor",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Linux"
+			],
+			"TargetConfigurationAllowList": [
+				"Unknown",
+				"Debug",
+				"DebugGame",
+				"Development",
+				"Shipping",
+				"Test"
+			]
+		}
+	]
+}
