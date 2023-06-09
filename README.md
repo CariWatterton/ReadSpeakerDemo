@@ -28,7 +28,7 @@ Whichever way you choose, put the repo or zip somewhere easy to find for you in 
 4. Open the generated **ReadSpeakerDemo.sln with Visual Studio**.
 5. Once loaded, locate the **"Solution Explorer" tab**. It is usually on the right and may be collapsed, if so then expand it.
 6. In the Solution Explorer tab, directly under the "Games" folder, **right click on ReadSpeakerDemo and select "Rebuild"**. (Rebuild is like build but includes a clean first, which can stop common errors). You can watch the status of the rebuild by clicking on "Output" at the very bottom left of the programme. 
-7. The project should build successfully. If it doesn't, click on the **Error List** tab at the bottom left of the window and screenshot all errors. Leave a comment with those errors. Alternatively, you can try to fix it yourself by googling the error codes.
+7. The project should build successfully. If it doesn't, click on the **Error List** tab at the bottom left of the window and screenshot all errors. Leave a comment in the **discussions tab of this repo** with those errors. Alternatively, you can try to fix it yourself by googling the error codes.
 8. Close Visual Studio.
 9. Open the **ReadSpeakerDemo uproject** (unreal engine project) file. (Ensure it is opening with UE 5.1. You can change the engine version by right clicking the uproject and selecting "Switch Unreal Engine Version".
 10. Wait for shaders to compile 😔
