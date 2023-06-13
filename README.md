@@ -1,6 +1,6 @@
 # ReadSpeakerDemo 🔊
 Free full Trial of the ReadSpeaker Plugin.
-https://www.readspeaker.com/applications/gaming/
+https://www.readspeaker.ai/unity-unreal-game-engine-plugin-free-trial/
 
 
 ## ⚒️ You will need:
