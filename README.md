@@ -1,5 +1,5 @@
 # ReadSpeakerDemo 🔊
-Demo of the ReadSpeaker Plugin.
+Free full Trial of the ReadSpeaker Plugin.
 https://www.readspeaker.com/applications/gaming/
 
 
