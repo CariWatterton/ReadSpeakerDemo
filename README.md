@@ -34,6 +34,19 @@ Whichever way you choose, put the repo or zip somewhere easy to find for you in 
 10. Wait for shaders to compile 😔
 
 
+## 🧑‍💻 Demo Video
+Get familiar with the project using the ReadSpeaker Demo video:
+https://youtu.be/luc3VCQ7GmM 
+
+The video covers:
+- Demo Overview
+- Getting the TTS to speak
+- Setting things up in the Game Instance
+- Changing Speed, Pitch and Voice in options
+- Button, Slider, HUD and Audio Description Examples
+
+
+
 ## 🗒️ Extra Information & FAQs
 
 ### .dlls and .libs
