@@ -13,9 +13,9 @@ https://www.readspeaker.ai/unity-unreal-game-engine-plugin-free-trial/
 ### 📁 Download a .zip
 You can download the zip file by clicking the **green "<> code" button on the repo's github page**. It will open a small window; on the **local tab** at the bottom of that window is a button for Download ZIP. Unzip once downloaded.
 
-### ⬇️ Clone with Git GUI
-1. Open your source control programme. I use sourcetree: https://www.sourcetreeapp.com/ (It's free but it's not the most user-friendly).
-2. **Clone a new repo**, following the instructions of your Git GUI. For sourcetree, this involves opening a new tab and hitting "clone" at the top. 
+### ⬇️ Clone with Git GUI (Fork Repository)
+1. Open your source control programme. I use Github desktop.
+2. **Clone a new repo**, following the instructions of your Git GUI.
 3. Enter the **github URL**. You can generate this by clicking the **green "<> code" button on github**; on the **local tab**, under HTTPS, copy the URL. 
 
 Whichever way you choose, put the repo or zip somewhere easy to find for you in your files.
@@ -65,4 +65,4 @@ This project is a demo of how the ReadSpeaker plugin can be used to:
 It shows off a variety of different voices and includes ways to set up common settings players who use screen readers would expect to have access to (speed and pitch).
 
 ### What can I do with this project?
-This is a knowledge sharing project. It's whole purpose is to give you the tools and knowledge to make games more accessible using the ReadSpeaker plugin. You can use the blueprint code you find here as a base, directly copy, modify and redistribute as you please. Keep in mind the ReadSpeaker plugin included here is their free demo version which includes an audio watermark while the speech occurs. If releasing a game, you would get in touch to pay for a license to the non-audio watermarked version. This is great because it means you get full access to all of the functionality and voices of the plugin for as long as you like, and only have to worry about a license fee when you go to release. https://www.readspeaker.com/applications/gaming/ 
+This is a knowledge sharing project. It's whole purpose is to give you the tools and knowledge to make games more accessible using the ReadSpeaker plugin. You can use the blueprint code you find here as a base, directly copy, modify and redistribute as you please. Keep in mind the ReadSpeaker plugin included here is their free demo version which includes an audio watermark while the speech occurs. If releasing a game, you would get in touch to pay for a license to the non-audio watermarked version. This means you get full access to all of the functionality and voices of the plugin for as long as you like, and only have to worry about a license fee when you go to release. https://www.readspeaker.com/applications/gaming/ 
